@@ -1,7 +1,4 @@
-## Hi there 👋
-
 # 🏁 Hugo de Abreu Biella 🏁
-
 
 ## 🚀 About Me
 
