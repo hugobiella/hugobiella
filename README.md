@@ -13,4 +13,4 @@ Hello! I'm Hugo de Abreu Biella, a Computer Science student at UFJ. I love worki
 
 - Image / Video Editing
 - Game Development
-- Backend / Frontend Development
+- Back-end / Front-end Development
