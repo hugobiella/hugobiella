@@ -15,5 +15,5 @@
 
 <div align = "center">
 
-  Website = [https://hugobiella.github.io] (Work in Progress!)
+- Website = [https://hugobiella.github.io] (Work in Progress!)
 </div>
