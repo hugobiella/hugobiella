@@ -5,7 +5,7 @@
 - Back-end development (Node.js) ⚙️
 - Gamedev (Unity & Godot) 🕹️
 - Image editing (Illustrator & Photoshop) 🖼️
-- Python Bots 🐍
+- Python 🐍
 </div>
 
 <div align = "center">
