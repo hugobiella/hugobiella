@@ -2,9 +2,7 @@
   
 ## 📚 Currently learning:
 - Front-end development (React & Next.js) 💻
-- Gamedev (Unity & Godot) 🕹️
-- Image editing (Illustrator & Photoshop) 🖼️
-- Python 🐍
+- Gamedev (Unity Engine) 🕹️
 </div>
 
 <div align = "center">
