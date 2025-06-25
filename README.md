@@ -2,7 +2,8 @@
   
 ## 📚 Currently learning:
 - Front-end development (React & Next.js) 💻
-- Gamedev (Unity Engine) 🕹️
+- Back-end development (Python) ⚙️
+- Gamedev (Unity & Godot Engine) 🕹️
 </div>
 
 <div align = "center">
