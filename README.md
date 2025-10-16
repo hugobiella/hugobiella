@@ -2,7 +2,7 @@
   
 ## 📚 Currently learning:
 - Front-end development (React & Next.js) 💻
-- Back-end development (Python) ⚙️
+- 3D Modeling (Blender) ⚙️
 - Gamedev (Unity & Godot Engine) 🕹️
 </div>
 
