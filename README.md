@@ -3,7 +3,7 @@
 ## 📚 Currently learning:
 - Front-end development (React & Next.js) 💻
 - 3D Modeling & 2D Pixel Art (Blender & Aseprite) ⚙️
-- Gamedev (Unity & Godot Engine) 🕹️
+- Gamedev (Unity & Unreal) 🕹️
 </div>
 
 <div align = "center">
